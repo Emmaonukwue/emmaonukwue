@@ -17,7 +17,7 @@ I am an administrator with a strong tech background, currently learning software
 
 ## Let's Connect!
 
-- Here is my ![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)() [LinkedIn](https://linkedin.com/in/oemma) profile
+- Here is my ![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white) [](https://linkedin.com/in/oemma) profile
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
