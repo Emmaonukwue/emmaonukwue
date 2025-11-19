@@ -9,7 +9,16 @@ I am an administrator with a strong tech background, currently learning software
 - Git, GitHub, Docker
 - Power Automate, Microsoft 365 Admin
 
-- 
+## 🚀 Projects
+- **Word Raider Game** – Python word-guessing project for CSE 111 → [Repo Link](#)
+- **Web3 Telegram Bot** – Node.js bot that interacts with a smart contract → [Repo Link](#)
+- **LDS Ward Activity Drama Script** – Creative scripting for a Church program → [Repo Link](#)
+- **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](#)
+
+
+## 📊 GitHub Stats
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaonukwue&show_icons=true&theme=radical)
+
 <!--
 **Emmaonukwue/emmaonukwue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
