@@ -2,18 +2,26 @@
 I am an administrator with a strong tech background, currently learning software engineering, web development, and automation. I love building solutions that make work easier and more efficient.
 
 ## 🛠 Skills & Technologies
-- HTML ![HTML](https://img.shields.io/badge/HTML-333?logo=html5), CSS, JavaScript
+- HTML, CSS, JavaScript
 - React, Next.js, Laravel
 - Node.js, Python
 - MySQL, MongoDB
 - Git, GitHub, Docker
 - Power Automate, Microsoft 365 Admin
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## 🚀 Projects
-- **Word Raider Game** – Python word-guessing project for CSE 111 → [Repo Link](#)
-- **Web3 Telegram Bot** – Node.js bot that interacts with a smart contract → [Repo Link](#)
-- **LDS Ward Activity Drama Script** – Creative scripting for a Church program → [Repo Link](#)
-- **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](#)
+- **Bygmart eClassify Multi Shop** – Custom admin UI with role-aware dashboard, and MySQL backend using Laravel/PHP/Flutter → [Live Link](https://bygmart.com/)
+- **Temple Album (Dynamic Site)** – Temple album with dynamic JS rendering, filtering, and lazy-loaded images. → [Repo Link](https://emmaonukwue.github.io/wdd131/filtered-temples.html) | [Live Link](https://yourusername.github.io/temple-album)
+- **Blaqloaded News Platform** – Custom made news platform with music promotion subdomain using PHP → [Live Link](http://blaqloaded.com/)
+- **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](https://emmaonukwue.github.io/wdd130/wwr/)
 
 ## Let's Connect!
 
@@ -22,13 +30,6 @@ I am an administrator with a strong tech background, currently learning software
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ## 📊 GitHub Stats
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaonukwue&show_icons=true&theme=radical)
