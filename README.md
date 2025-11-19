@@ -15,6 +15,13 @@ I am an administrator with a strong tech background, currently learning software
 - **LDS Ward Activity Drama Script** – Creative scripting for a Church program → [Repo Link](#)
 - **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](#)
 
+## Let's Connect!
+
+- Here is my [LinkedIn](https://linkedin.com/in/oemma) profile
+
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
 
 ## 📊 GitHub Stats
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaonukwue&show_icons=true&theme=radical)
