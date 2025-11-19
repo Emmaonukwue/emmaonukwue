@@ -21,7 +21,7 @@ I am an administrator with a strong tech background, currently learning software
 - **Bygmart eClassify Multi Shop** – Custom admin UI with role-aware dashboard, and MySQL backend using Laravel/PHP/Flutter → [Live Link](https://bygmart.com/)
 - **Temple Album (Dynamic Site)** – Temple album with dynamic JS rendering, filtering, and lazy-loaded images. → [Repo Link](https://emmaonukwue.github.io/wdd131/filtered-temples.html) | [Live Link](https://yourusername.github.io/temple-album)
 - **Blaqloaded News Platform** – Custom made news platform with music promotion subdomain using PHP → [Live Link](http://blaqloaded.com/)
-- **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](https://emmaonukwue.github.io/wdd130/wwr/)
+- **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](https://github.com/Emmaonukwue/wdd130/tree/main/wwr) | [Live Link](https://emmaonukwue.github.io/wdd130/wwr/)
 
 ## Let's Connect!
 
