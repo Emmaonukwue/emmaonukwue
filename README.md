@@ -18,8 +18,9 @@ I am an administrator with a strong tech background, currently learning software
 </div>
 
 ## 🚀 Projects
-- **Bygmart eClassify Multi Shop** – Custom admin UI with role-aware dashboard, and MySQL backend using Laravel/PHP/Flutter → [Live Link](https://bygmart.com/)
+- **TeachVora Platform** – Teacher recruitment platform with role-aware dashboards, dynamic job board, save-job and enquiry workflows using Node.js/Express/EJS/MySQL. → [Live Link](https://teachvora.com/)
 - **Temple Album (Dynamic Site)** – Temple album with dynamic JS rendering, filtering, and lazy-loaded images. → [Repo Link](https://emmaonukwue.github.io/wdd131/filtered-temples.html) | [Live Link](https://yourusername.github.io/temple-album)
+- **Glanville Group** – HTML/CSS project with hero image and layout →  [Live Link](https://glanvillegrouppty.com)
 - **Blaqloaded News Platform** – Custom made news platform with music promotion subdomain using PHP → [Live Link](http://blaqloaded.com/)
 - **Rafting Website** – HTML/CSS project with hero image and layout → [Repo Link](https://github.com/Emmaonukwue/wdd130/tree/main/wwr) | [Live Link](https://emmaonukwue.github.io/wdd130/wwr/)
 
