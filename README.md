@@ -27,7 +27,7 @@ I am an administrator with a strong tech background, currently learning software
 ## Let's Connect!
 
 - Here is my [LINKEDIN](https://linkedin.com/in/oemma) profile.
-- Visit my [Portfolio](https://emma.mdesign.it.com) today.
+- Visit my [Portfolio](https://emmaonukwue.github.io/portfolio) today.
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
