@@ -33,8 +33,14 @@ I am an administrator with a strong tech background, currently learning software
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 
-## 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaonukwue&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmaonukwue&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaonukwue&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
+
+[![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmaonukwue&show_icons=true&theme=radical)](https://github.com/emmaonukwue)
 
 <!--
 **Emmaonukwue/emmaonukwue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
